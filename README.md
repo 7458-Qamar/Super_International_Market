@@ -40,3 +40,5 @@ This project focuses on analyzing sales and profit trends over time, identifying
 - Detected outliers and inconsistencies through visualizations (boxplots).
 - Provided insights into customer purchasing behaviors by segment analysis.
 """
+![chart](https://github.com/user-attachments/assets/11409fc4-4d16-412f-8715-c41001a8c59b)
+
