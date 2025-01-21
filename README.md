@@ -40,9 +40,3 @@ This project focuses on analyzing sales and profit trends over time, identifying
 - Detected outliers and inconsistencies through visualizations (boxplots).
 - Provided insights into customer purchasing behaviors by segment analysis.
 """
-
-# Write to a README.md file
-with open("README.md", "w") as file:
-    file.write(readme_content)
-
-print("README.md file has been created successfully!")
